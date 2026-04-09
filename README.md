@@ -23,8 +23,6 @@ I am an **AI Researcher** and **AI Engineer** focused on building intelligent sy
 * **Status:** Computer Science Graduate / Research Enthusiast
 * 
 ### 📊 GitHub Stats
-
-![Duy's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Min-Planck&theme=radical)
 ![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Min-Planck&layout=compact&theme=radical)
 ---
 *"We are smart enough to invent AI, dumb enough to need it, and so stupid we can’t figure out if we did the right thing..."* — **Jerry Seinfeld**
