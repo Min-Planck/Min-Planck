@@ -11,8 +11,8 @@ I am a **AI Researcher** and **AI Engineer** focused on building intelligent sys
 
 ### 📊 GitHub Stats
 
-![Duy's GitHub stats](https://github-readme-stats.vercel.app/api?username=min-planck&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=min-planck&layout=compact&theme=radical)
+![Duy's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Min-Planck&theme=radical)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=Min-Planck&theme=radical)
 
 ### 🚀 Current Projects
 - **Water Leak Detection System:** Developing an end-to-end solution using LSTM Autoencoders and FastAPI.
