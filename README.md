@@ -1,28 +1,31 @@
 # Hi there, I'm Duy (Hoàng Quang Duy) 👋
 
-I am a **AI Researcher** and **AI Engineer** focused on building intelligent systems and optimizing how machines learn. My work sits at the intersection of Federated Learning, Dataset Distillation, and MLOps.
+I am an **AI Researcher** and **AI Engineer** focused on building intelligent systems and optimizing how machines learn. My work spans diverse areas including Federated Learning, Dataset Distillation, and Agentic Engineering..
 
 ### 🛠 Tech Stack & Interests
 
-* **Core Research:** Federated Learning, Dataset Distillation, Generative Adversarial Networks.
+* **Core Research:** Federated Learning, Dataset Distillation, Contrastive Learning.
 * **AI/ML Tools:** PyTorch, TensorFlow, Scikit-learn.
-* **Backend & Engineering:** Python (FastAPI), JavaScript (Angular), MLOps, AI Agents.
-* **Hobbies:** Exploring Ancient Mythology, J-Pop, and Audiophile gear.
+* **Agentic Engineering:** **Dify** (Workflow Automation), **Kilo CLI**, **OpenCode CLI** (Agent Development).
+* **Backend & Web:** Python (FastAPI), JavaScript (Angular).
+* **Hobbies:** Ancient Mythology, J-Pop, and Audiophile Gear.
 
 ### 📊 GitHub Stats
 
 ![Duy's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Min-Planck&theme=radical)
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=Min-Planck&theme=radical)
+![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Min-Planck&layout=compact&theme=radical)
 
-### 🚀 Current Projects
-- **Water Leak Detection System:** Developing an end-to-end solution using LSTM Autoencoders and FastAPI.
-- **Federated Learning Research:** Exploring methods for several device to colab on training a model without sharing their data.
-- **Dataset Distillation Research:** Exploring methods to condense large datasets into smaller, informative synthetic sets.
-- **Research Assistant AI Agent:** Researching autonomous agent frameworks and MLOps integration.
+### 🚀 Research & Projects
+
+* **Research Assistant AI Agent (Ongoing):** Developing an autonomous agentic system designed to streamline the research workflow, focusing on framework orchestration and automated task management.
+* **Water Leak Detection (Phase 1):** Successfully developed an end-to-end Proof of Concept (PoC) using LSTM Autoencoders and FastAPI for anomaly detection in water infrastructure.
+* **Federated Learning:** Investigating decentralized training techniques to enable collaborative model learning while maintaining strict data privacy.
+* **Dataset Distillation:** Researching methods to synthesize small, high-fidelity datasets that retain the core information of large-scale data for efficient training.
 
 ### 📫 Connect with me
-- **Location:** Ha Noi, Vietnam 🇻🇳
-- **Status:** Computer Science Graduate / Research Enthusiast
+
+* **Location:** Ha Noi, Vietnam 🇻🇳
+* **Status:** Computer Science Graduate / Research Enthusiast
 
 ---
-*"We are smart enough to invent AI, dumb enough to need it, and so stupid we can’t figure out if we did the right thing..." - Jerry Seinfeld*
+*"We are smart enough to invent AI, dumb enough to need it, and so stupid we can’t figure out if we did the right thing..."* — **Jerry Seinfeld**
