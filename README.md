@@ -1,6 +1,6 @@
 # Hi there, I'm Duy (Hoàng Quang Duy) 👋
 
-I am an **AI Researcher** and **AI Engineer** focused on building intelligent systems and optimizing how machines learn. My work spans diverse areas including Federated Learning, Dataset Distillation, and Agentic Engineering..
+I am an **AI Researcher** and **AI Engineer** focused on building intelligent systems and optimizing how machines learn. My work spans diverse areas including Federated Learning, Dataset Distillation, and Agentic Engineering.
 
 ### 🛠 Tech Stack & Interests
 
