@@ -5,7 +5,7 @@ I am an **AI Researcher** and **AI Engineer** focused on building intelligent sy
 ### 🛠 Tech Stack & Interests
 
 * **Core Research:** Federated Learning, Dataset Distillation, Contrastive Learning.
-* **AI/ML Tools:** PyTorch, TensorFlow, Scikit-learn.
+* **AI/ML Tools:** PyTorch, TensorFlow, Scikit-learn, OOpenCV.
 * **Agentic Engineering:** **Dify** (Workflow Automation), **Kilo CLI**, **OpenCode CLI** (Agent Development).
 * **Backend & Web:** Python (FastAPI), JavaScript (Angular).
 * **Hobbies:** Ancient Mythology, J-Pop, and Audiophile Gear.
