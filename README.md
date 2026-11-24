@@ -1,4 +1,4 @@
-<div style="width:100%;height:0;padding-bottom:94%;position:relative;"><iframe src="https://giphy.com/embed/LEPAQItmFtn2LaHf6J" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/kawaii-chef-herrscher-of-thunder-LEPAQItmFtn2LaHf6J">via GIPHY</a></p>
+<img width="498" height="466" alt="Honkai Impact Cooking GIF" src="https://github.com/user-attachments/assets/f590723f-b72b-4d1c-8a75-1146ae079e10" />
 
 ### 📫 Connect with me
 
