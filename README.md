@@ -1,4 +1,4 @@
-![Hehe](https://giphy.com/gifs/kawaii-chef-herrscher-of-thunder-LEPAQItmFtn2LaHf6J)
+<img src="https://giphy.com" width="300" alt="Kawaii Chef Mei" />
 
 ### 📫 Connect with me
 
