@@ -1,4 +1,4 @@
-![Hehe]([https://example.com](https://giphy.com/gifs/kawaii-chef-herrscher-of-thunder-LEPAQItmFtn2LaHf6J))
+![Hehe](https://giphy.com/gifs/kawaii-chef-herrscher-of-thunder-LEPAQItmFtn2LaHf6J)
 
 ### 📫 Connect with me
 
